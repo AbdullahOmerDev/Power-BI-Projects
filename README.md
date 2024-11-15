@@ -5,6 +5,7 @@ Projects
 This project analyzes supermarket sales data to provide insights into business performance, customer behavior, and trends.
 
 How to Access
+
 Clone this repository:
 git clone https://github.com/your-username/PowerBI-Projects.git
 Open the .pbix file in Power BI Desktop.
