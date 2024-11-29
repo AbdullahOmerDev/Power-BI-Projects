@@ -1,21 +1,22 @@
-Welcome to my Power BI Projects repository! This repository showcases my data visualization and analytical projects created using Microsoft Power BI.
+Welcome to my Power BI Projects repository! 
+This repository showcases my data visualization and analytical projects created using Microsoft Power BI.
 
 
-Projects:
+**Projects:**
 
 1-Sales Report 
 
 This project analyzes supermarket sales data to provide insights into business performance, customer behavior, and trends.
 
 
-How to Access:
+**How to Access:**
 
 -Clone this repository: git clone https://github.com/AbdullahOmerDev/Power-BI-Projects
 
 -Open the .pbix file in Power BI Desktop.
 
 
-Getting Started To view or build similar reports:
+**Getting Started To view or build similar reports:**
 
 -Download Microsoft Power BI Desktop. 
 
